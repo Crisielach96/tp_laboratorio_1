@@ -25,7 +25,7 @@ int suma(int a, int b);
  *
  * \param Primer numero a restar
  * \param Segundo numero a restar
- * \return Resultado de la suma
+ * \return Resultado de la resta
  *
  */
 int resta(int a, int b);

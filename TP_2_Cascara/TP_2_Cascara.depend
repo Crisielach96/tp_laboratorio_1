@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1493081237 source:d:\users\cristian\desktop\mis cosas\utn fra\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1461846544 d:\users\cristian\desktop\mis cosas\utn fra\tp_2_cascara\funciones.h
+
+1493089426 source:d:\users\cristian\desktop\mis cosas\utn fra\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493315435 source:d:\users\cristian\desktop\mis cosas\utn fra\tp_2_cascara\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1493315378 d:\users\cristian\desktop\mis cosas\utn fra\tp_2_cascara\tp_2_cascara\funciones.h
+
+1493315543 source:d:\users\cristian\desktop\mis cosas\utn fra\tp_2_cascara\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1493316148 source:c:\users\cris\documents\github\tp_laboratorio_2\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1493315378 c:\users\cris\documents\github\tp_laboratorio_2\tp_2_cascara\funciones.h
+
+1493316030 source:c:\users\cris\documents\github\tp_laboratorio_2\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
